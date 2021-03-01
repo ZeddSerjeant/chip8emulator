@@ -1,0 +1,1 @@
+This was a project that I pursued to develop a basic emulator for the chip8. I was interesting in emulators in general, and this was as far as I got originally.
